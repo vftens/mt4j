@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/muito_blobtracking.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ani.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/GlulogicMT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/batik-css.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mri.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-4.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="waterScene">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/advanced/water/lib/waterScene.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

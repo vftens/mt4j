@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MSAFluid">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/advanced/fluidSimulator/lib/MSAFluid.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

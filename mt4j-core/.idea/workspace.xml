@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="558b774a-f6ec-4034-acce-f0a33c300951" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/MSAFluid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/batik.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/com_innoventsolutions_birt_runtime_org_w3c_dom_events_3_0_0_draft20060413_v201105210656_4_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/flickrj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jbox2d.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jbullet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jogl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/modestMaps.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_birt_runtime_org_w3c_dom_events_3_0_0_draft20060413_v201105210656.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_w3c_dom_2_3_0_jaxb_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/tuio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/waterScene.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/whirlylib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/dom-2.3.0-jaxb-1.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org.w3c.dom.events-3.0.0.draft20060413_v201105210656.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/org.w3c.dom.events_3.0.0.draft20060413_v201105210656-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mt4j-core.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bAAWp6rjTxFYidVqei1CQ9TiCB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Application.StartHelloWorld">
+    <configuration name="StartHelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic.helloWorld.StartHelloWorld" />
+      <module name="mt4j-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.helloWorld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MTComponentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mt4j-core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.mt4j.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.mt4j.test.components" />
+      <option name="MAIN_CLASS_NAME" value="org.mt4j.test.components.MTComponentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartHelloWorld" />
+        <item itemvalue="JUnit.MTComponentTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="558b774a-f6ec-4034-acce-f0a33c300951" name="Default Changelist" comment="" />
+      <created>1588064558176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588064558176</updated>
+      <workItem from="1588064569349" duration="3047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1024" y="0" width="1024" height="728" key="SettingsEditor" timestamp="1588076421476">
+      <screen x="-1024" y="0" width="1024" height="728" />
+    </state>
+    <state x="-1024" y="0" width="1024" height="728" key="SettingsEditor/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1588076421476" />
+    <state x="344" y="393" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588076397369">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="344" y="393" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/-1024.0.1024.728/0.0.1280.984@0.0.1280.984" timestamp="1588076397369" />
+  </component>
+</project>

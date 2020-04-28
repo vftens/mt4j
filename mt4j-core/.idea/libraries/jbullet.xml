@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jbullet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jbullet/stack-alloc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jbullet/jbullet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/extensions/lib/jbullet/vecmath.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

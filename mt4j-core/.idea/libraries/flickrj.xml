@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flickrj">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/advanced/flickrMT/lib/flickrj.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

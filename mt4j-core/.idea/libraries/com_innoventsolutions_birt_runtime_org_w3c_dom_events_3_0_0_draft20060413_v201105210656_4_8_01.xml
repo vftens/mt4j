@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.innoventsolutions.birt.runtime:org.w3c.dom.events_3.0.0.draft20060413_v201105210656:4.8.01" type="repository">
+    <properties maven-id="com.innoventsolutions.birt.runtime:org.w3c.dom.events_3.0.0.draft20060413_v201105210656:4.8.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/org.w3c.dom.events_3.0.0.draft20060413_v201105210656-4.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

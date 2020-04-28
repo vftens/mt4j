@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="modestMaps">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/examples/advanced/modestMapsMT/lib/modestMaps.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
